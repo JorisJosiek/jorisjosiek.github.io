@@ -24,7 +24,7 @@ github_username: JorisJosiek
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
 
