@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="container ml-3 px-2 mx-auto mb-4" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="h0 col-10 py-2 ml-3 mr-3 mt-5 inline-block" itemprop="name headline">{{ page.title }}</h1>
+  <p class="mb-3 mini-width italic py-0 ml-3 mr-3 h4">{{ page.abstract }}</p>
+  <div class="small-width mt-1 ml-3 mr-4 mb-2 border-bottom-thin ">
+    <p class="mb-3 bold h4 text-accent"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+  </div>
+
+  <div class="prose small-width ml-3 mr-4" itemprop="articleBody">
+      {{ content }}
+  </div>
+
+</article>
+
+<div class="container mx-auto ml-3 mr-3 py-2 clearfix">
+  {% include previous-next.html %}
+</div>

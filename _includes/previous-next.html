@@ -1,0 +1,21 @@
+<!-- Use if you want to show previous and next for all posts. -->
+{% assign user_url = site.url | append: site.baseurl %}
+{% assign full_base_url = user_url | default: site.github.url %}
+{% if page.previous.url %}
+  <div class="col-5 sm-width-full left mr-lg-4 mt-3">
+    <a class="no-underline border-top-thin py-1 block" href="{{ page.previous.url | prepend: full_base_url }}">
+      <span class="h5 bold text-accent">Previous</span>
+      <p class="bold h3 sansserif link-primary mb-1">{{ page.previous.title }}</p>
+      <p>{{ page.previous.abstract }}</p>
+    </a>
+  </div>
+  {% endif %}
+  {% if page.next.url %}
+  <div class="col-5 sm-width-full left mt-3">
+    <a class="no-underline border-top-thin py-1 block" href="{{ page.next.url | prepend: full_base_url }}">
+      <span class="h5 bold text-accent">Next</span>
+      <p class="bold h3 sansserif link-primary mb-1">{{ page.next.title }}</p>
+      <p>{{ page.next.abstract }}</p>
+    </a>
+  </div>
+{% endif %}

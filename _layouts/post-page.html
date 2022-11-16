@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="container ml-3 mx-auto px-2 mb4">
+  <header>
+    <h1 class="h0 col-10 sm-width-full py-2 ml-3 mr-3 mt-5 inline-block">{{ page.title }}</h1>
+  </header>
+  <div class="small-width mt-1 ml-3 mr-4 mb-2 border-top-thin">
+  </div>
+  <div class="container col-9 ml-3 mr-3 py-4">
+        {% for post in site.posts %}
+          {% include post_block.html %}
+        {% endfor %}
+  </div>
+  <div class="container col-9 ml-3 mr-3 prose">{{ content }}</div>
+</article>

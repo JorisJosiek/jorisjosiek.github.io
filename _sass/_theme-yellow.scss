@@ -1,0 +1,30 @@
+// Yellow theme - could do yellow on borders? - links on inside pages?
+
+// Color variables
+$black: #181818;
+$white: #fff;
+$gray: #777;
+$yellow: #fec92e;
+$dyellow: #d6a309;
+
+
+// Config
+$color-background: $yellow !default;
+$color-dot-accent: $white !default;
+$color-foreground: $black !default;
+$color-title: $black !default;
+$color-body-text: $black !default;
+$color-text-accent: $dyellow !default;
+$color-code: $dyellow !default;
+$color-nav-link: $white !default;
+$color-primary-link: $gray !default;
+$color-border: $yellow;
+
+
+// Import sass partials (used in all themes)
+@import
+        "variables",
+        "base",
+        "components",
+        "utilities"
+;
