@@ -3,7 +3,25 @@
 ---
 @charset "utf-8";
 
+
+@font-face {
+        font-family: 'EB Garamond';
+        src: url('fonts/EBGaramond-Regular.eot');
+        font-weight: normal;
+        font-style: normal;
+      }
+      
+      @font-face {
+        font-family: 'EB Garamond';
+        src: url('fonts/EBGaramond-Italic.eot');
+        font-weight: normal;
+        font-style: italic;
+      }
+
+    
+
 // Import partials from `sass_dir` and set theme here
 @import
         "theme-{{ site.theme_color | default: "black" }}.scss"
 ;
+
