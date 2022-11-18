@@ -27,12 +27,17 @@ code {
   }
 
   p, ol, ul {
-    font-size: $prose-font-size;
+    
     margin-bottom: 1em;
     width: 100%;
 
     @media (min-width: $breakpoint-lg) {
+      font-size: $prose-font-size;
       width: (12 / 12 * 100%); // matches col-10
+    }
+
+    @media (max-width: $breakpoint-lg) {
+      font-size: $prose-size-mobile;
     }
 
   }
