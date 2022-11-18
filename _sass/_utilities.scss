@@ -76,8 +76,8 @@
 
   .px-1 { padding-left: $spacer-mobile; padding-right:  $spacer-mobile }
   .px-2 { padding-left: $spacer-mobile; padding-right:  $spacer-mobile; }
-  .px-3 { padding-left: $spacer-mobile; padding-right:  $spacer-mobile; }
-  .px-4 { padding-left: $spacer-mobile; padding-right:  $spacer-mobile; }
+  .px-3 { padding-left: $spacer-mobile-2; padding-right:  $spacer-mobile-2; }
+  .px-4 { padding-left: $spacer-mobile-2; padding-right:  $spacer-mobile-2; }
 
   .mt-1 { margin-top: $spacer-mobile; }
   .mr-1 { margin-right: $spacer-mobile; }
@@ -90,14 +90,14 @@
   .ml-2 { margin-left: $spacer-mobile; }
 
   .mt-3 { margin-top: $spacer-3; }
-  .mr-3 { margin-right: $spacer-mobile; }
-  .mb-3 { margin-bottom: $spacer-mobile; }
-  .ml-3 { margin-left: $spacer-mobile; }
+  .mr-3 { margin-right: $spacer-mobile-2; }
+  .mb-3 { margin-bottom: $spacer-mobile-2; }
+  .ml-3 { margin-left: $spacer-mobile-2; }
 
   .mt-4 { margin-top: $spacer-4; }
-  .mr-4 { margin-right: $spacer-mobile; }
-  .mb-4 { margin-bottom: $spacer-mobile; }
-  .ml-4 { margin-left: $spacer-mobile; }
+  .mr-4 { margin-right: $spacer-mobile-2; }
+  .mb-4 { margin-bottom: $spacer-mobile-2; }
+  .ml-4 { margin-left: $spacer-mobile-2; }
 
   .mt-5 { margin-top: 48px; }
 }
