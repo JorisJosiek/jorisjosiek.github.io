@@ -9,12 +9,12 @@
 
       <header class="header-background">
 
-        <div class="clearfix border-bottom-thick header-border">
+        <div class="clearfix border-bottom-thick px-1 header-border">
           <ul class="list-reset right py-1 header-text font-smoothing">
             {% for my_page in site.pages %}
               {% if my_page.title %}
               <li class="inline-block">
-                <a class="align-middle sansserif link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                <a class="align-middle mr-h ml-h sansserif link-primary header-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
               </li>
               {% endif %}
             {% endfor %}
