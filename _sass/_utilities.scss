@@ -44,12 +44,12 @@
 .header-background { background-color: $color-background}
 .transparent-bg {background-color: rgba(0, 0, 0, 0.5)}
 @media (min-width: $breakpoint-lg) {
-  .header-picture-bg { background-image: url("images/jwst-carina-small.jpg");
+  .header-picture-bg { background-image: url("./images/jwst-carina-small.jpg");
     background-size: 2000px 1500px ;
   }
 }
 @media (max-width: $breakpoint-lg) {
-  .header-picture-bg { background-image: url("images/jwst-carina-small.jpg");
+  .header-picture-bg { background-image: url("./images/jwst-carina-small.jpg");
     background-size: 2000px 1500px ;
   }
 }
