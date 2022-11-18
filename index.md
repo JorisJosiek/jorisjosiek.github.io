@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Update ...
+This site is currently a construction project...
+
+Header image credit: NASA/ESA
