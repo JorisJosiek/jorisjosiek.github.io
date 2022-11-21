@@ -5,24 +5,10 @@
 
 
 @font-face {
-        font-family: 'EB Garamond';
-        src: url('https://jorisjosiek.com/assets/fonts/EBGaramond-Regular.ttf') format('truetype');
+        font-family: 'IBM Plex Serif';
+        src: url('https://jorisjosiek.com/assets/fonts/IBMPlexSerif-Regular.ttf') format('truetype');
         font-weight: normal;
         font-style: normal;
-      }
-      
-      @font-face {
-        font-family: 'EB Garamond';
-        src: url('https://jorisjosiek.com/assets/fonts/EBGaramond-Italic.ttf') format('truetype');
-        font-weight: normal;
-        font-style: italic;
-      }
-
-@font-face {
-font-family: 'IBM Plex Serif';
-src: url('https://jorisjosiek.com/assets/fonts/IBMPlexSerif-Regular.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
 }
 
 @font-face {
@@ -40,11 +26,19 @@ font-style: normal;
         }
 
 @font-face {
-        font-family: 'Lato';
-        src: url('https://jorisjosiek.com/assets/fonts/Lato-Regular.ttf') format('truetype');
+        font-family: 'IBM Plex Sans';
+        src: url('https://jorisjosiek.com/assets/fonts/IBMPlexSans-Regular.ttf') format('truetype');
         font-weight: normal;
         font-style: normal;
+}
+
+@font-face {
+        font-family: 'IBM Plex Sans';
+        src: url('https://jorisjosiek.com/assets/fonts/IBMPlexSans-Bold.ttf') format('truetype');
+        font-weight: bold;
+        font-style: normal;
         }
+
 
 
 
