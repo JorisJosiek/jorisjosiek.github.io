@@ -23,7 +23,7 @@ We first notice that we have an equation of the form $$A^B=1$$, where $$A$$ and 
 
 So, what are the solutions for $$A$$ and $$B$$ ? 
 
-1. $$B=0$$. We know that any number to the zeroth power is equal to one. Or should I say, *almost* any number. The subtlety here is that $$0^0$$ is undefined, so this solution is only works if $$A\neq 0$$. This is something that needs to be verified for any solution we find to $$B=0$$.
+1. $$B=0$$. We know that any number to the zeroth power is equal to one. Or should I say, *almost* any number. The subtlety here is that $$0^0$$ is undefined, so this solution only works if $$A\neq 0$$. This is something that needs to be verified for any solution we find to $$B=0$$.
 
 2. $$A=1$$. This is a solution without exception. One raised to any power is still one.
 
