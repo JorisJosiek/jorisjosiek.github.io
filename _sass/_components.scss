@@ -42,6 +42,20 @@ code {
 
   }
 
+  details {
+
+    width: 100%;
+    
+    @media (min-width: $breakpoint-lg) {
+      font-size: $prose-font-size;
+    }
+
+    @media (max-width: $breakpoint-lg) {
+      font-size: $prose-size-mobile;
+    }
+
+  }
+
   ul, ol {
     padding-left: 40px;
   }
