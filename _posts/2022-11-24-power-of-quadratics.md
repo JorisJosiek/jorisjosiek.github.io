@@ -35,9 +35,9 @@ Now, let us consider each of the above cases substituting in the expressions wit
 
 1. $$B=0$$. This is equivalent to the quadratic equation $$x^2-18x+77=0$$ which can be factorized as $$(x-7)(x-11)=0$$ and therefore yields two candidates $$x=7$$ and $$x=11$$. A quick but important check verifies that $$A\neq 0$$ for either of these values, so they are indeed solutions of the problem.
 
-2. $$A=1$$. This is equivalent to the quadratic equation $$x^2-7x+11=1$$, or $$x^2-7x+10=0$$ which can be factorized as $$(x-2)(x-5)$$. This directly yields two further solutions $$x=2$$ and $$x=5$$.
+2. $$A=1$$. This is equivalent to the quadratic equation $$x^2-7x+11=1$$, or $$x^2-7x+10=0$$ which can be factorized as $$(x-2)(x-5)=0$$. This directly yields two further solutions $$x=2$$ and $$x=5$$.
 
-3. $$A=-1$$. This is equivalent to the quadratic equation $$x^2-7x+11=-1$$, or $$x^2-7x+12=0$$ which can be factorized as $$(x-3)(x-4)$$. This gives us two candidates $$x=3$$ and $$x=4$$, but they are not verified solutions until we check that $$B$$ is even for these cases. A simple calculation finds $$B=32$$ for $$x=3$$, so this is indeed a solution. For $$x=4$$, we obtain $$B=27$$ which is odd. Therefore, $$x=4$$ is in fact not a true solution to the problem! 
+3. $$A=-1$$. This is equivalent to the quadratic equation $$x^2-7x+11=-1$$, or $$x^2-7x+12=0$$ which can be factorized as $$(x-3)(x-4)=0$$. This gives us two candidates $$x=3$$ and $$x=4$$, but they are not verified solutions until we check that $$B$$ is even for these cases. A simple calculation finds $$B=32$$ for $$x=3$$, so this is indeed a solution. For $$x=4$$, we obtain $$B=27$$ which is odd. Therefore, $$x=4$$ is in fact not a true solution to the problem! 
 
 The full set of solutions is therefore $$x=2,3,5,7,11$$, or the first five prime numbers. Pretty cool, no?
 
