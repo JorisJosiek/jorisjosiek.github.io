@@ -40,7 +40,6 @@ cols = 500
 rows = 50
 xs = np.linspace(0,1,cols)
 ys = np.linspace(0,1,rows)
-X, Y = np.meshgrid(xs, ys)
 ```
 
 **Calculating the pixels**
