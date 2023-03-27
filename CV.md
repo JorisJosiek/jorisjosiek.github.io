@@ -7,6 +7,7 @@ Click [here](https://jorisjosiek.com/assets/documents/CV_2022_11-Joris_Josiek_On
 
 ## Education
 
+| <span style="color:gray">*(starting 09/2023*</span> | <span style="color:gray">*Ph.D. in Astrophysics*</span> | <span style="color:gray">*Universität Heidelberg, Germany)*</span>
 | <span class="text-accent">*since 09/2021*</span> | M.Sc. in Astrophysics | <span style="color:gray">*Université de Genève, Switzerland*</span>
 | <span class="text-accent">*10/2018 — 08/2021*</span> | B.Sc. in Physics | <span style="color:gray">*Technische Universität Dresden, Germany*</span>
 
