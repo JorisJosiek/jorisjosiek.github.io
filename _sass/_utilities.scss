@@ -25,6 +25,7 @@
 .bold { font-weight: bold; }
 .uppercase { text-transform: uppercase; }
 
+
 .lh-condensed { line-height: 1.25; }
 
 .list-reset {
@@ -61,6 +62,7 @@
 .header-social-accent { fill: $color-dot-accent; }
 .header-link:hover { color: $color-nav-link !important; } // used for navigation links on homepage
 .text-accent { color: $color-text-accent; } // used for date in post list and home link
+.small-text {font-size : 11px;}
 
 /* Layout utilities */
 .container { max-width: $container-width; }

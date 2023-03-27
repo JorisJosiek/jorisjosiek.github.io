@@ -124,7 +124,7 @@ code {
   // Markdown tables
   table {
     border-collapse: collapse;
-    display: block;
+    
     width: 100%;
     margin-bottom: 1.5em;
     overflow: auto;
@@ -140,18 +140,18 @@ code {
     th,
     td {
       padding: $spacer-2 $spacer-3 $spacer-2 2px;
-      border-top: 1px solid $color-body-text;
-      border-bottom: 1px solid $color-body-text;
+      border-top: none;
+      border-bottom: none;
     }
 
     tr {
       background-color: #fff;
-      border-top: 1px solid $color-body-text;
+      border-top: none;
     }
 
     tr th {
-      border-top: 2px solid $color-body-text;
-      border-bottom: 2px solid $color-body-text;
+      border-top: none;
+      border-bottom: none;
     }
   }
 
