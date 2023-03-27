@@ -27,7 +27,7 @@ Click [here](https://jorisjosiek.com/assets/documents/CV_2022_11-Joris_Josiek_On
 
 ## Miscellaneous Employment
 
-| <span class="text-accent">*01/2019 — 06/2020*,</span> <br> <span class="text-accent">*09/2020—06/2021*</span> | Internship at Infineon Technologies Dresden
+| <span class="text-accent">*01/2019 — 06/2020*,</span> <br> <span class="text-accent">*09/2020 — 06/2021*</span> | Internship at Infineon Technologies Dresden
 
 ## Languages
 
