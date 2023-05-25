@@ -3,7 +3,7 @@ title: CV
 layout: page
 ---
 
-Click [here](https://jorisjosiek.com/assets/documents/CV_2022_11-Joris_Josiek_Online.pdf) to download my detailed CV as a PDF.
+Click [here](https://jorisjosiek.com/assets/documents/CV-Joris-Josiek-Online.pdf) to download my detailed CV as a PDF.
 
 ## Education
 
@@ -13,7 +13,7 @@ Click [here](https://jorisjosiek.com/assets/documents/CV_2022_11-Joris_Josiek_On
 
 ## Research Experience
 
-| <span class="text-accent">*since 09/2022*</span> | Winds of Massive Stars | <span style="color:gray">*M.Sc. Thesis*</span>
+| <span class="text-accent">*09/2022 — 06/2023*</span> | Winds of Massive Stars <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/Winds-Of-Massive-Stars-Thesis.pdf)]</span>| <span style="color:gray">*M.Sc. Thesis*</span>
 | <span class="text-accent">*03/2022 — 09/2022*</span> | Red Supergiants Mass Loss <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/RSG-Mass-Loss-Report.pdf)]</span>|
 | <span class="text-accent">*09/2021 — 01/2022*</span> | Optical Interferometry on Solar System Planets <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/Optical-Interferometry-Solar-System-Planets-Report.pdf)]</span>|
 | <span class="text-accent">*04/2021 — 07/2021*</span> | Semiclassical Motion of Charge Carriers in Planar Graphene <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/Charge-Carriers-Graphene-Thesis.pdf)]</span>| <span style="color:gray">*B.Sc. Thesis*</span>
@@ -24,6 +24,10 @@ Click [here](https://jorisjosiek.com/assets/documents/CV_2022_11-Joris_Josiek_On
 | <span class="text-accent">*04/2021 — 09/2021*</span> | Theoretical Classical Mechanics | ­<span style="color:gray">*Teaching Assistant*</span> |
 | <span class="text-accent">*10/2020 — 02/2021*</span> | Theoretical Quantum Mechanics | ­<span style="color:gray">*Teaching Assistant*</span> |
 | <span class="text-accent">*10/2019 — 02/2020*</span> | Introduction to Programming | ­<span style="color:gray">*Teaching Assistant*</span> |
+
+## Grants
+
+| <span class="text-accent">*2023*</span> | Young scientist travel support (1000 CHF) | <span style="color:gray">*Swiss Society for Astrophysics and Astronomy (SSAA)* |
 
 ## Miscellaneous Employment
 
