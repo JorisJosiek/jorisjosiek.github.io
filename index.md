@@ -13,7 +13,7 @@ My research interests revolve around understanding the structure and evolution o
 
 On this website, you will find information about my academic background and research experience in the "CV" and "Research" sections. In the "Writing" section, I will post some of the little things I find interesting in and around my field including coding tools and tutorials, cool math problems, and exciting science news. In the future, I also intend to use it as a platform for more elaborate articles and discussions related to astrophysics.
 
-If you are interested in my research and would like to know more, feel free to get in touch with me via email at [joris.josiek@etu.unige.ch](joris.josiek@etu.unige.ch). Whether you are a fellow researcher or an enthusiast of astronomy, I am always happy to engage in discussions and share my passion for this captivating field!
+If you are interested in my research and would like to know more, feel free to get in touch with me via email at [joris.josiek@uni-heidelberg.de](joris.josiek@uni-heidelberg.de). Whether you are a fellow researcher or an enthusiast of astronomy, I am always happy to engage in discussions and share my passion for this captivating field!
 
 
 <br><br><br><br><br><br>
