@@ -13,7 +13,7 @@ Click [here](https://jorisjosiek.com/assets/documents/CV-Joris-Josiek-Online.pdf
 
 ## Research Experience
 
-| <span class="text-accent">*09/2022 — 06/2023*</span> | Winds of Massive Stars <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/Winds-Of-Massive-Stars-Thesis.pdf)]</span>| <span style="color:gray">*M.Sc. Thesis*</span>
+| <span class="text-accent">*09/2022 — 06/2023*</span> | Winds of Massive Stars | <span style="color:gray">*M.Sc. Thesis*</span>
 | <span class="text-accent">*03/2022 — 09/2022*</span> | Red Supergiants Mass Loss <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/RSG-Mass-Loss-Report.pdf)]</span>|
 | <span class="text-accent">*09/2021 — 01/2022*</span> | Optical Interferometry on Solar System Planets <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/Optical-Interferometry-Solar-System-Planets-Report.pdf)]</span>|
 | <span class="text-accent">*04/2021 — 07/2021*</span> | Semiclassical Motion of Charge Carriers in Planar Graphene <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/Charge-Carriers-Graphene-Thesis.pdf)]</span>| <span style="color:gray">*B.Sc. Thesis*</span>
