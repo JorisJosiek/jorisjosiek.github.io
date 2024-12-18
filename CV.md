@@ -33,7 +33,8 @@ See [Author Search on NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type
 
 ## Teaching Experience
 
-| <span class="text-accent">*04/2024 — 07/2024*</span> | Computational Physics | ­<span style="color:gray">*Teaching Assistant*</span> |
+| <span class="text-accent">*10/2024 — 02/2025*</span> | Theoretical Classical Mechanics | <span style="color:gray">*Teaching Assistant*</span> |
+| <span class="text-accent">*04/2024 — 07/2024*</span> | Computational Physics | <span style="color:gray">*Teaching Assistant*</span> |
 | <span class="text-accent">*04/2021 — 09/2021*</span> | Theoretical Classical Mechanics | ­<span style="color:gray">*Teaching Assistant*</span> |
 | <span class="text-accent">*10/2020 — 02/2021*</span> | Theoretical Quantum Mechanics | ­<span style="color:gray">*Teaching Assistant*</span> |
 | <span class="text-accent">*10/2019 — 02/2020*</span> | Introduction to Programming | ­<span style="color:gray">*Teaching Assistant*</span> |
