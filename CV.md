@@ -11,18 +11,14 @@ layout: page
 
 ## Publications
 
+ORCID: [0009-0001-0742-3933](https://orcid.org/0009-0001-0742-3933)
+
 See [Author Search on NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22Josiek%2C%20J%22&sort=date%20desc%2C%20bibcode%20desc)
-
-## Non-Published Research Experience
-
-| <span class="text-accent">*09/2022 — 06/2023*</span> | Winds of Massive Stars | <span style="color:gray">*M.Sc. Thesis*</span>
-| <span class="text-accent">*03/2022 — 09/2022*</span> | Red Supergiants Mass Loss <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/RSG-Mass-Loss-Report.pdf)]</span>|
-| <span class="text-accent">*09/2021 — 01/2022*</span> | Optical Interferometry on Solar System Planets <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/Optical-Interferometry-Solar-System-Planets-Report.pdf)]</span>|
-| <span class="text-accent">*04/2021 — 07/2021*</span> | Semiclassical Motion of Charge Carriers in Planar Graphene <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/Charge-Carriers-Graphene-Thesis.pdf)]</span>| <span style="color:gray">*B.Sc. Thesis*</span>
-| <span class="text-accent">*08/2020 — 04/2021*</span> | Electromagnetic Resonance in Optically Anisotropic Cavities |
 
 ## Scientific Talks
 
+| <span style="color:gray">*09/2025*</span>| *Ensenada, Mexico* | Deep atmosphere models of very massive stars | <span style="color:gray">*Contributed conference talk*</span>|
+| <span class="text-accent">*04/2025*</span>| *Virtual* | Fundamentals of radiative transfer in expanding media | <span style="color:gray">*Invited lecture*</span>|
 | <span class="text-accent">*06/2024*</span>| *Rio de Janeiro, Brazil* | Spectral evolution of very massive stars on the main sequence <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/202406-Talk.pdf)]</span>| <span style="color:gray">*Contributed conference talk*</span>|
 | <span class="text-accent">*01/2024*</span>| *Heidelberg, Germany* | Impact of main sequence mass loss on the structure and evolution of massive stars | <span style="color:gray">*Invited colloquium talk*</span>|
 | <span class="text-accent">*11/2023*</span>| *Heidelberg, Germany* | The physics of neutron stars <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/202311-JournalTalk.pdf)]</span>| <span style="color:gray">*Literature seminar*</span>|
@@ -33,6 +29,7 @@ See [Author Search on NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type
 
 ## Teaching Experience
 
+| <span class="text-accent">*04/2025 — 07/2025*</span> | Theoretical Analytical Mechanics and Thermodynamics | <span style="color:gray">*Teaching Assistant*</span> |
 | <span class="text-accent">*10/2024 — 02/2025*</span> | Theoretical Classical Mechanics | <span style="color:gray">*Teaching Assistant*</span> |
 | <span class="text-accent">*04/2024 — 07/2024*</span> | Computational Physics | <span style="color:gray">*Teaching Assistant*</span> |
 | <span class="text-accent">*04/2021 — 09/2021*</span> | Theoretical Classical Mechanics | ­<span style="color:gray">*Teaching Assistant*</span> |
@@ -42,6 +39,14 @@ See [Author Search on NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type
 ## Grants
 
 | <span class="text-accent">*2023*</span> | Young scientist travel support (1000 CHF) | <span style="color:gray">*Swiss Society for Astrophysics and Astronomy (SSAA)* |
+
+## Non-Published Research Experience
+
+| <span class="text-accent">*09/2022 — 06/2023*</span> | Winds of Massive Stars | <span style="color:gray">*M.Sc. Thesis*</span>
+| <span class="text-accent">*03/2022 — 09/2022*</span> | Red Supergiants Mass Loss <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/RSG-Mass-Loss-Report.pdf)]</span>|
+| <span class="text-accent">*09/2021 — 01/2022*</span> | Optical Interferometry on Solar System Planets <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/Optical-Interferometry-Solar-System-Planets-Report.pdf)]</span>|
+| <span class="text-accent">*04/2021 — 07/2021*</span> | Semiclassical Motion of Charge Carriers in Planar Graphene <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/Charge-Carriers-Graphene-Thesis.pdf)]</span>| <span style="color:gray">*B.Sc. Thesis*</span>
+| <span class="text-accent">*08/2020 — 04/2021*</span> | Electromagnetic Resonance in Optically Anisotropic Cavities |
 
 ## Miscellaneous Employment
 
