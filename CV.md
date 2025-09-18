@@ -17,7 +17,7 @@ See [Author Search on NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type
 
 ## Scientific Talks
 
-| <span style="color:gray">*09/2025*</span>| *Ensenada, Mexico* | Deep atmosphere models of very massive stars | <span style="color:gray">*Contributed conference talk*</span>|
+| <span class="text-accent">*09/2025*</span>| *Ensenada, Mexico* | Deep atmosphere models of very massive stars <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/202509-Talk.pdf)]</span>| <span style="color:gray">*Contributed conference talk*</span>|
 | <span class="text-accent">*04/2025*</span>| *Virtual* | Fundamentals of radiative transfer in expanding media <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/202504-Lecture.pdf), [video](https://www.youtube.com/watch?v=2eu1p37UKWs)]</span>| <span style="color:gray">*Invited lecture*</span>|
 | <span class="text-accent">*06/2024*</span>| *Rio de Janeiro, Brazil* | Spectral evolution of very massive stars on the main sequence <span class="small-text">[[pdf](https://jorisjosiek.com/assets/documents/202406-Talk.pdf)]</span>| <span style="color:gray">*Contributed conference talk*</span>|
 | <span class="text-accent">*01/2024*</span>| *Heidelberg, Germany* | Impact of main sequence mass loss on the structure and evolution of massive stars | <span style="color:gray">*Invited colloquium talk*</span>|
